@@ -89,11 +89,6 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 
 - 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
 
-
-<!--
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
--->
 <span class='anchor' id='-internships'></span>
 
 # 🏭 Internships
