@@ -24,8 +24,8 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
 
-
 <span class='anchor' id='-educations'></span>
+
 # 🎓 Educations 
 - *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="21pt"></a> College of Intelligence and Computing, Tianjin University, , PhD candidate of Electronic Information (Computer technology). 
 - *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="21pt"></a>  College of Control Science and Engineering, Zhejiang University,  Master of Control Science and Engineering.
@@ -90,12 +90,13 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 
 # 💬 Conferences
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
+- 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
+<!--
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
-
+-->
 <span class='anchor' id='-internships'></span>
 # 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+- *2019.03-2019.06*, Hangzhou Qunhe Technology Co., LTD., Algorithm Engineer.
+- *2019.10-2020.03*, Hangzhou Hikvision Digital Technology Co., LTD., Algorithm Engineer.
+- *2020.05-2020.09*, Integrated Intelligence Research Center of Zhejiang Lab, Algorithm engineer.
