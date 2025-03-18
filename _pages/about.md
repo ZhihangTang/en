@@ -37,9 +37,9 @@ Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure In
 
 # **💻** Experiences
 
-- *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> Scout,  Chinese People's Armed Police Force. 
+- *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="20pt"></a> Scout,  Chinese People's Armed Police Force. 
 - *2021.04 - now*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="22pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhejiang Lab.
-- *2022.07 - 2024.08*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/htrdc_logp.png" width="22pt"></a>  Project Manager, High-Tech Research and Development Center of National Natural Science Foundation of China .
+- *2022.07 - 2024.08*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/htrdc_logp.png" width="22pt"></a>  Project Manager, High-Tech Research and Development Center of National Natural Science Foundation of China (secondment).
 
 
 <span class='anchor' id='-publications'></span>
