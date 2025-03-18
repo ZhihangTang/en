@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhihang Tang"
 description              : "This is the academic homepage of Zhihang Tang."
-repository               : "zhihang/en"
+repository               : "ZhihangTang/en"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhihang Tang"
   avatar           : "images/tzh.jpg"
-  bio              : "Huazhong university of science and technology"
-  location         : "Wuhan, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Zhejianglab"
+  location         : "Hangzhou, China"
+  employer         : "Zhejianglab"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "tangzhihang@zju.edu.cn"
