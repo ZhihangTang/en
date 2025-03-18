@@ -27,7 +27,7 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Educations 
-- *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="21pt"></a> College of Intelligence and Computing, Tianjin University, , PhD candidate of Electronic Information (Computer technology). 
+- *2023.09 - 2027.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.svg" width="21pt"></a> College of Intelligence and Computing, Tianjin University, PhD candidate of Electronic Information. 
 - *2018.09 - 2021.03*, <a href="https://www.zju.edu.cn/"><img class="svg" src="/images/zju_logo.svg" width="21pt"></a>  College of Control Science and Engineering, Zhejiang University,  Master of Control Science and Engineering.
 - *2012.09 - 2018.06*, <a href="https://www.shiep.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="21pt"></a> College of Automation Engineering, Shanghai University of Electric Power,  Bachelor of Automation. 
 
@@ -38,7 +38,7 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 # **💻** Experiences
 
 - *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> Scout  of Chinese People's Armed Police Force. 
-- *2021.04 - now <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
+- *2021.04 - now <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="22pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
 
 
 <span class='anchor' id='-publications'></span>
@@ -68,11 +68,10 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏅 Honors and Awards
 - *2013.10* Win the Outstanding Volunteer of Shanghai Electric Power University.
-- *2013.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
-- *2014.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
-- *2015.06* Win the  Outstanding Student Scholarship of Shanghai University of Electric Power.
-- *2015.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
-- *2015.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2013.10* Win the `First Prize` Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2014.10* Win the `First Prize` Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2015.06* Win the   Power Electronics outstanding student scholarship of Shanghai University of Electric Power.
+- *2015.09* Win the `First Prize` Outstanding Student Scholarship of Shanghai University of Electric Power.
 - *2015.10* Win the Outstanding Student of Shanghai University od Electric Power. 
 - *2016.01* Win the New recruits education and training advanced individual of Chinese People's Armed Police Force 8730. 
 - *2017.08* Win the Outstanding soldier of Chinese People's Armed Police Force 8730. 
