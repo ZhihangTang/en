@@ -41,7 +41,6 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 - *2021.04 - now <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
 
 
-
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
@@ -89,7 +88,7 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 # 💬 Conferences
 
 - 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
-- 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
+
 
 <!--
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
