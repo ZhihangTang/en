@@ -59,9 +59,22 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+- *2013.10* Win the Outstanding Volunteer of Shanghai Electric Power University.
+- *2013.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2014.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2015.06* Win the  Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2015.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2015.10* Win the 'First Prize' Outstanding Student Scholarship of Shanghai University of Electric Power.
+- *2015.10* Win the Outstanding Student of Shanghai University od Electric Power. 
+- *2016.01* Win the New recruits education and training advanced individual of Chinese People's Armed Police Force 8730. 
+- *2017.08* Win the Outstanding soldier of Chinese People's Armed Police Force 8730. 
+- *2018.05* Win the Outstanding Graduate of Shanghai University of Electric Power. 
+- *2018.06* Win the Outstanding Graduate of Shanghai City.
+- *2019.10* Win the Outstanding Graduate Student of Zhejiang University
+- *2019.10* Win the Outstanding Graduate Student Leader of Zhejiang University
+- *2019.10* Win the Outstanding League Member leader of Zhejiang University
+- *2019.10* Win the 26th China  May Fourth Youth Medal (Group).
+
 
 <span class='anchor' id='-conferences'></span>
 # 💬 Conferences
