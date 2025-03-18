@@ -32,7 +32,18 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 - *2012.09 - 2018.06*, <a href="https://www.shiep.edu.cn/"><img class="svg" src="/images/suep_logo.svg" width="21pt"></a> College of Automation Engineering, Shanghai University of Electric Power,  Bachelor of Automation. 
 
 
+
+<span class='anchor' id='-experiences'></span>
+
+# **💻** Experiences
+
+- *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> Scout  of Chinese People's Armed Police Force. 
+- *2021.04 - now <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="21pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
+
+
+
 <span class='anchor' id='-publications'></span>
+
 # 📝 Publications 
 
 ### Conference 
@@ -73,10 +84,10 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 - *2019.10* Win the Outstanding Graduate Student of Zhejiang University
 - *2019.10* Win the Outstanding Graduate Student Leader of Zhejiang University
 - *2019.10* Win the Outstanding League Member leader of Zhejiang University
-- *2019.10* Win the 26th China  May Fourth Youth Medal (Group).
-
+- *2022.05* Win the 26th China  May Fourth Youth Medal (Group).
 
 <span class='anchor' id='-conferences'></span>
+
 # 💬 Conferences
 
 - *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
