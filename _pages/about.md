@@ -19,7 +19,7 @@ redirect_from:
 
 # 👤 About Me 
 
-Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Computing Facility Innovation Center, served in the 8730 Unit of the Chinese People's Police. He received his Bachelor's degree in Engineering from Shanghai Electric Power University in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the Department of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC '24 Best Paper Award.
+Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure Innovation Center, Zhejiang Lab, served in the 8730 unit of the Chinese people's Armed Police. He received his Bachelor's degree in Engineering from Shanghai University of Electric Power in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the College of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC‘24 Best Paper Award.
 <!--
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
@@ -38,7 +38,7 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 # **💻** Experiences
 
 - *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> Scout  of Chinese People's Armed Police Force. 
-- *2021.04 - now*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="22pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
+- *2021.04 - now*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="22pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhejiang Lab.
 
 
 <span class='anchor' id='-publications'></span>
@@ -67,12 +67,12 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏅 Honors and Awards
-- *2013.10* Win the Outstanding Volunteer of Shanghai Electric Power University.
+- *2013.10* Win the Outstanding Volunteer of Shanghai University of Electric Power.
 - *2013.10* Win the `First Prize` Outstanding Student Scholarship of Shanghai University of Electric Power.
 - *2014.10* Win the `First Prize` Outstanding Student Scholarship of Shanghai University of Electric Power.
-- *2015.06* Win the   Power Electronics outstanding student scholarship of Shanghai University of Electric Power.
+- *2015.06* Win the   “Power Electronics” outstanding student scholarship of Shanghai University of Electric Power.
 - *2015.09* Win the `First Prize` Outstanding Student Scholarship of Shanghai University of Electric Power.
-- *2015.10* Win the Outstanding Student of Shanghai University od Electric Power. 
+- *2015.10* Win the Outstanding Student of Shanghai University of Electric Power. 
 - *2016.01* Win the New recruits education and training advanced individual of Chinese People's Armed Police Force 8730. 
 - *2017.08* Win the Outstanding soldier of Chinese People's Armed Police Force 8730. 
 - *2018.05* Win the Outstanding Graduate of Shanghai University of Electric Power. 
@@ -93,4 +93,4 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 # 🏭 Internships
 - *2019.03-2019.06*, Hangzhou Qunhe Technology Co., LTD., Algorithm Engineer.
 - *2019.10-2020.03*, Hangzhou Hikvision Digital Technology Co., LTD., Algorithm Engineer.
-- *2020.05-2020.09*, Integrated Intelligence Research Center of Zhejiang Lab, Algorithm engineer.
+- *2020.05-2020.09*, Integrated Intelligence Research Center of Zhejiang Lab, Algorithm Engineer.

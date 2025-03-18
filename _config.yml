@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhihang Tang"
-description              : "This is the academic homepage of Zhihang Tang."
+description              : # "This is the academic homepage of Zhihang Tang."
 repository               : "ZhihangTang/en"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/tzh.jpg"
   bio              : "Zhejiang Lab"
   location         : "Hangzhou, China"
-  employer         : "Zhejianglab"
+  employer         : #"Zhejiang Lab"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "tangzhihang@zju.edu.cn"
