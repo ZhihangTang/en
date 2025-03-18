@@ -66,8 +66,6 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 [[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 -->
 
-
-
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏅 Honors and Awards
 - *2013.10* Win the Outstanding Volunteer of Shanghai Electric Power University.
@@ -91,6 +89,8 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 # 💬 Conferences
 
 - 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
+- 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
+
 <!--
 - *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
 - *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
