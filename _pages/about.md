@@ -19,7 +19,7 @@ redirect_from:
 
 # 👤 About Me 
 
-Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure Innovation Center, Zhejiang Lab, served in the 8730 unit of the Chinese people's Armed Police. He received his Bachelor's degree in Engineering from Shanghai University of Electric Power in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the College of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC‘24 Best Paper Award.
+Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure Innovation Center of Zhejiang Lab, served in the 8730 unit of the Chinese people's Armed Police. He received his Bachelor's degree in Engineering from Shanghai University of Electric Power in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the College of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC'24 Best Paper Award.
 <!--
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
