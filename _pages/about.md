@@ -17,23 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+# 🎓 About Me 
 
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Computing Facility Innovation Center, served in the 8730 Unit of the Chinese People's Police. He received his Bachelor's degree in Engineering from Shanghai Electric Power University in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the Department of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC '24 Best Paper Award.
+<!--
+ <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-->
+
 
 
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
 - *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
+
 
 # 📝 Publications 
 
@@ -167,4 +163,3 @@ My research interest includes:
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
-  
