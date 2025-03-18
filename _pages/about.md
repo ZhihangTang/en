@@ -38,7 +38,7 @@ Zhihang Tang, an assistant researcher at Zhijiang Laboratory's Intelligent Compu
 # **💻** Experiences
 
 - *2015.09 - 2017.09*, <a href="http://www.81.cn/wj_208567/index.html"><img class="svg" src="/images/pap.jpg" width="21pt"></a> Scout  of Chinese People's Armed Police Force. 
-- *2021.04 - now <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="22pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
+- *2021.04 - now*, <a href="https://www.zhejianglab.org/"><img class="svg" src="/images/zjlab.png" width="22pt"></a>  Assistant Researcher, Intelligent Computing Infrastructure Innovation Center, Zhijiang Lab.
 
 
 <span class='anchor' id='-publications'></span>
