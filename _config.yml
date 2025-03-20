@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhihang Tang"
-description              : "Distributed computing, Parallel computing"
+description              : ""
 repository               : "ZhihangTang/en"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhihang Tang"
   avatar           : "images/tzh.jpg"
-  bio              : "Zhejiang Lab"
+  bio              : "Intelligent Computing Infrastructure Innovation Center, Zhejiang Lab"
   location         : "Hangzhou, China"
   employer         : #"Zhejiang Lab"
   pubmed           : 
