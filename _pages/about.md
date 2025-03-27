@@ -55,12 +55,19 @@ Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure In
 </div>
 </div>
 
-- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,Under Reviewing. 
-[[网页]](https://) [[预览]]() [[下载]](/pdf/shuffle-exchange.pdf)
+- `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
+[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
 
 ### Journal
 ---
+
+- `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, full paper,UndUnder Revising. 
+[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
+
+
+
 <!--
+
 -	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
 唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
 [[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
