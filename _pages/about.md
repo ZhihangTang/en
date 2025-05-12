@@ -19,7 +19,7 @@ redirect_from:
 
 # 👤 About Me 
 
-Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure Innovation Center of Zhejiang Lab, served in the 8730 unit of the Chinese people's Armed Police. He received his Bachelor's degree in Engineering from Shanghai University of Electric Power in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the College of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC'24 Best Paper Award.
+Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure Innovation Center of Zhejiang Lab, served in the 8730 unit of the Chinese people's Armed Police. He received his Bachelor's degree in Engineering from Shanghai University of Electric Power in 2018 and Master's degree in engineering from Zhejiang University in 2021, respectively. From September 2023 to now, he is studying for his PhD in the College of Intelligence and Computing at Tianjin University. His research interests include distributed computing, edge computing, large model systems, artificial intelligence, etc. He has published nearly ten papers and patents in related fields and won the IFIP NPC'24 Best Paper Award. He served as an executive committee member of the Network and Data Communication Special Committee of the China Computer Federation.
 <!--
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
@@ -56,6 +56,10 @@ Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure In
 </div>
 
 - `Zhihang Tang`,Chenxi Li, Xiang Yang, Bo He, Qi Qi, Jingyu Wang, Laiping Zhao. Shuffle-Exchange: Enhancing Collective Communication Efficiency for Large Model Training. The 45th IEEE International Conference on Distributed Computing Systems 2025 (*ICDCS’25*), CCF-B, full paper,`Accepted`. 
+[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
+
+
+- `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
 [[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
 
 ### Journal
@@ -96,9 +100,10 @@ Zhihang Tang, an assistant researcher at Intelligent Computing Infrastructure In
 
 - 2024.12,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan,Oral.
 
-<span class='anchor' id='-internships'></span>
+<span class='anchor' id='-academic-posts'></span>
 
-# 🏭 Internships
-- *2019.03-2019.06*, Hangzhou Qunhe Technology Co., LTD., Algorithm Engineer.
+# 🏭 Academic Posts
+- Executive Committee Member, Network and Data Communication Special Committee, China Computer Federation (CCF)
+<!-- - *2019.03-2019.06*, Hangzhou Qunhe Technology Co., LTD., Algorithm Engineer.
 - *2019.10-2020.03*, Hangzhou Hikvision Digital Technology Co., LTD., Algorithm Engineer.
-- *2020.05-2020.09*, Integrated Intelligence Research Center of Zhejiang Lab, Algorithm Engineer.
+- *2020.05-2020.09*, Integrated Intelligence Research Center of Zhejiang Lab, Algorithm Engineer. -->
