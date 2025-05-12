@@ -65,7 +65,7 @@ Zhihang Tang, an assistant researcher at Research Center for High Efficiency Com
 ### Journal
 ---
 
-- `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, full paper,UndUnder Revising. 
+- `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, Regular paper, `Under Revising`. 
 [[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
 
 
