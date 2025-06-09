@@ -59,14 +59,14 @@ Zhihang Tang, an assistant researcher at Research Center for High Efficiency Com
 [[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
 
 
-- `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
-[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
+<!-- - `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
+[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf) -->
 
 ### Journal
 ---
 
 - `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, Regular paper, `Under Revising`. 
-[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
+[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/GNP-SE.pdf)
 
 
 
