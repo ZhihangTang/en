@@ -59,8 +59,8 @@ Zhihang Tang, an assistant researcher at Research Center for High Efficiency Com
 [[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
 
 
-<!-- - `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPP’25), CCF-B, full paper, `Under Reviewing`.
-[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf) -->
+- `Zhihang Tang`,Weiqi Yuei, Baofu Wu, Binbin Huang, Laiping Zhao and Keqiu Li. Efficient Scheduling for Multiple Distributed DNN Training Tasks in Resource-constrained Edge Networks. The 54th International Conference on Parallel Processing  (ICPADS’25), CCF-C, full paper, `Under Reviewing`.
+[[HTML]](https://) [[Preview]]() [[PDF]](/pdf/shuffle-exchange.pdf)
 
 ### Journal
 ---
@@ -68,6 +68,8 @@ Zhihang Tang, an assistant researcher at Research Center for High Efficiency Com
 - `Zhihang Tang`,Zhaopeng Feng, Yan Zhang, Zuozhu Liu, LaipingZhao and Keqiu Li. Learning Sentence Representation from Generated Noisy Sentence Pairs. Journal of Computer Science and Technology (*JCST 2025*), CCF-B, Regular paper, `Under Revising`. 
 [[HTML]](https://) [[Preview]]() [[PDF]](/pdf/GNP-SE.pdf)
 
+- `Zhihang Tang`, Hao Lan, Zhengguo Liu, Qing Wang, Laiping Zhao, Keqiu Li. HiTrain: Heterogeneous Memory Offloading and I/O Optimization for Large Language Model Training. Journal of Computer Research and Development (*JCRD 2026* in Chinese), CCF-A, Regular paper, `Accepted`. 
+[[网页]](https://) [[预览]]() [[下载]](/pdf/HiTrain.pdf)
 
 
 <!--
@@ -100,6 +102,7 @@ Zhihang Tang, an assistant researcher at Research Center for High Efficiency Com
 
 - *2024.12*,The IFIP International Conference on Network and Parallel Computing(NPC '24), Haikou, Hainan, Oral.
 - *2025.07*, The 45th IEEE International Conference on Distributed Computing Systems(ICDCS'25)  , Glasgow, United Kingdom, Oral.
+- *2025.08*, CCF ChinaStorage 2025, Wuhan, Hubei, China, Poster.
 <span class='anchor' id='-academic-posts'></span>
 
 # 🏭 Academic Posts
